@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# 智能学习助手
-三层路由决策 + RAG 检索增强 + 联网搜索的智能学习助手 | A multi-layer routed RAG tutor with web search
-=======
 # Agent RAG Tutor 🤖📚
 
 一个基于**三层路由决策**、**向量检索增强**与**联网搜索**的智能学习助手，体现了 Agent 核心的规划、工具使用与自校正能力。
@@ -35,8 +31,8 @@ text
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/tianming/agent-rag-tutor.git
-cd agent-rag-tutor
+git clone https://github.com/1084669403/-Agent-RAG-Tutor-.git
+cd -Agent-RAG-Tutor-
 2. 安装依赖
 bash
 pip install -r requirements.txt
@@ -88,4 +84,3 @@ src/
 └── config.py              # 配置模板
 📝 许可
 MIT License
->>>>>>> 717725f (Initial commit: Agent RAG Tutor)
